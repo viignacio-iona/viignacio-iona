@@ -12,7 +12,4 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=viignacio-iona&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=viignacio-iona&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=viignacio-iona&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
