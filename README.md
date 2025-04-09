@@ -1,4 +1,4 @@
-<h2 align="left">Hola 👋! My name is Van and I'm a QA Engineer with 10 years of experience in manual testing and currently mastering the art of test automation.</h2>
+<h2 align="left">Hola 👋! I'm Van. A QA Consultant with 10 years of experience in manual testing and currently mastering the art of test automation.</h2>
 
 ###
 
