@@ -1,17 +1,11 @@
 <h2 align="left">Hola 👋 I'm Van — a QA Consultant with more than a decade of experience in manual testing. I'm now deepening my skills in test automation and bringing that rigor to faster, more reliable delivery.</h2>
- <br />
- <br />
 
 ###
-
-<br clear="both">
-
 <!-- Stats graph (github-readme-stats.vercel.app is paused)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=viignacio-iona&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
 -->
-
 ###
 
 <img align="center" height="150" src="https://media.giphy.com/media/l0K4n42JVSqqUvAQg/giphy.gif?cid=790b7611h1dwnu6z0yko7c2up1k14kxe2np6zg2efzwqkzt4&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
