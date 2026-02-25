@@ -1,4 +1,4 @@
-<h2 align="center">Hola 👋 I'm Van — a QA Consultant with more than a decade of experience in manual testing. I'm now deepening my skills in test automation and bringing that rigor to faster, more reliable delivery.</h2>
+<h2 align="left">Hola 👋 I'm Van — a QA Consultant with more than a decade of experience in manual testing. I'm now deepening my skills in test automation and bringing that rigor to faster, more reliable delivery.</h2>
 
 ###
 <!-- Stats graph (github-readme-stats.vercel.app is paused)
@@ -8,7 +8,9 @@
 -->
 ###
 
-<img align="center" height="150" src="https://media.giphy.com/media/l0K4n42JVSqqUvAQg/giphy.gif?cid=790b7611h1dwnu6z0yko7c2up1k14kxe2np6zg2efzwqkzt4&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<div align="center">
+  <img height="300" src="https://media.giphy.com/media/l0K4n42JVSqqUvAQg/giphy.gif?cid=790b7611h1dwnu6z0yko7c2up1k14kxe2np6zg2efzwqkzt4&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="gif" />
+</div>
 
 ###
 
